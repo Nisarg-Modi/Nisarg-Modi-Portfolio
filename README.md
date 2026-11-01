@@ -1,10 +1,6 @@
-# Nisarg-Modi-Portfolio
-Nisarg-Modi-Portfolio
-Nisarg Modi | Engineering Portfolio
-
 # Nisarg Modi | Engineering Portfolio
 
-Welcome to my engineering portfolio covering DevOps, Cloud Engineering, DevSecOps, Kubernetes, MLOps and AI.
+Welcome to my engineering portfolio covering DevOps, Cloud Engineering, DevSecOps, Kubernetes, Openshift and AI.
 
 **GitHub Profile:** [Nisarg-Modi](https://github.com/Nisarg-Modi)
 
